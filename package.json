@@ -1,0 +1,20 @@
+{
+  "name": "contact-manager-app",
+  "version": "1.0.0",
+  "description": "this is a phonebook management app using CRUD API for management of the contacts and MongoDB to store the contacts.",
+  "homepage": "https://github.com/Ayushmanashish07/Contact-Manager-app#readme",
+  "bugs": {
+    "url": "https://github.com/Ayushmanashish07/Contact-Manager-app/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ayushmanashish07/Contact-Manager-app.git"
+  },
+  "license": "ISC",
+  "author": "Ayushman",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "start"
+  }
+}
