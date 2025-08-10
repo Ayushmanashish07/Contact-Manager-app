@@ -1,0 +1,45 @@
+# Node.js dependencies
+node_modules/
+
+# Environment variables
+.env
+.env.*.local
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Editor folders
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# MongoDB data (if you're storing local db files)
+data/
+dump/
+*.mongodb
+
+# Coverage reports
+coverage/
+
+# Build output
+dist/
+build/
+
+# Process IDs
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Misc
+*.tgz
+*.swp
